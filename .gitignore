@@ -1,0 +1,16 @@
+# 個別の研究記録・バックアップを誤って公開しないための除外設定
+*.json
+*.jsonl
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+*.backup
+*.env
+.env.*
+*.key
+*.pem
+/private/
+/data/
+/backups/
+/exports/
